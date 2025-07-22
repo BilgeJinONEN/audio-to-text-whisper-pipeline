@@ -38,7 +38,7 @@ This project provides a simple and automated workflow to split a long audio file
 ## Usage
 
 1. **Open the Notebook:**  
-   Use [this Colab link](https://colab.research.google.com/drive/1eldIAns03PKxLb_KYZj7C8utKCi0aMmf) or upload the script to your own Colab.
+   Use [this Colab link](https://colab.research.google.com/drive/1eldIAns03PKxLb_KYZj7C8utKCi0aMmf?authuser=0#scrollTo=iDNXnSgI13Ns) 
 
 2. **Install Dependencies:**  
    The script will automatically install all required packages.
